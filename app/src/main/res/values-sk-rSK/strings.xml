@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jazykový príklad</string>
+    <string name="title">Nejaký titulok</string>
+    <string name="activate">Aktivovať aplikáciu</string>
+    <string name="about">O aplikácií</string>
+
+</resources>
